@@ -17,7 +17,7 @@
   
   .nav__contents {
     display: flex;
-    gap: 10px;
+    gap: 20px;
   }
   
   .home,
@@ -26,6 +26,8 @@
     color: #fff;
     text-decoration: none;
     border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
   }
   
   .home:hover,
